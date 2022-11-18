@@ -1,5 +1,4 @@
 <?php
-
 function mergeArrayMultidimensional($array)
 {
     $result = [];
